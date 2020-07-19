@@ -1,24 +1,25 @@
 YouTube Url: https://www.youtube.com/watch?v=F2JCjVSZlG0
 
-## NOTES
+# NOTES
 
 npx create-react-app quiz-app-react-typescript --template typescript
 
-# Libraries
+## Libraries
 1. npm i -save styled-components @types/styled-components
 
-# Sources
+## Sources
 1. https://unsplash.com/@reallynattu (Background images)
 2. https://fonts.google.com/specimen/Catamaran (Google Fonts -> Catamaran and Fascinate Inline)7
 
 Copy embed link and paste in index.html in public folder
-<link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@700&family=Fascinate+Inline&display=swap" rel="stylesheet">
+##### <link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@700&family=Fascinate+Inline&display=swap" rel="stylesheet">
 
 ## API's
 1. Trivia API https://opentdb.com/api_config.php
+
 Generate URL: https://opentdb.com/api.php?amount=10&type=multiple
 
-# ////////////////////// AUTO GENERATED ////////////////////////////
+# //////////// AUTO GENERATED ///////////
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
